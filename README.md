@@ -16,6 +16,7 @@ The table below the chart breaks down:
 Date filters are included in the dashboard, enabling users to adjust the time range and analyse trends based on custom time periods.
 A pivot table was used to group Store IDs under their respective Brand IDs, making it easier to explore store-level feedback within each brand cluster.
 This dashboard helps teams monitor engagement, and identify stores needing attention.
+All charts and tables are cross-filtered, meaning users can click on any bar, Brand ID, or Store ID to dynamically update the table and focus on the relevant subset of reviews. This interactive feature allows deeper insight into specific performance areas.
 
 #Screenshot:
 ![Review Dashboard](https://raw.githubusercontent.com/TehCino/Dashboards-and-projects/main/Review%20Dashboard.jpg)
